@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hello! I'm Lee Seo Beom
-subtitle: age: 24 / university: Pukyong National University / major: Computer Engineering!
+subtitle: age = 24 / university = Pukyong National University / major = Computer Engineering!
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [test]
