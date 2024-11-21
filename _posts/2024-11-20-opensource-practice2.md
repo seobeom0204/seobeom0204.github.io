@@ -1,7 +1,7 @@
 ---
 layout: post
 title: GitHub is so interesting!!
-subtitle: /let's make a page with github
+subtitle: let's make a page with github
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
