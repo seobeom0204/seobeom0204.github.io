@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hello! I'm Lee Seo Beom
-subtitle: Introduce Myself!
+subtitle: Today's Project!
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [test]
